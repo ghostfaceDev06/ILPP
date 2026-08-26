@@ -28,3 +28,4 @@ if model.status == GRB.OPTIMAL:
     print(f'Optimal objective Value: {model.ObjVal}')
     print(f'Solve: x1 = {x1.X} \t x2 = {x2.X} \t x3 = {x3.X} \t x4 = {x4.X} ')
 
+'''This examples I learn how to devlop with Gurobipy Pyhton Library to solve Inter Linear Programming´s Problems '''

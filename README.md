@@ -1,2 +1,1 @@
-# Inter_Linear_Programming
-My repository keeps my codes of Inter Linear Programming's Subjet.
+This repository has goal keep the classroom's examples of Inter Linear Programming.

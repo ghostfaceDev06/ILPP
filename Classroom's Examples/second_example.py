@@ -44,7 +44,7 @@ if model.status == GRB.OPTIMAL:
         for j in range(n):
             print(f'x{i}{j} = {x[(i,j)].X}')
 
-def e(i,j):
+def e(i,j): #To peform
     return(min(i,j),max(i,j))
 
 G = nx.Graph() #Creating Graph

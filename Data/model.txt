@@ -1,0 +1,7 @@
+Test Model 
+Max Profits - costs
+p.a Energy <= 270
+    Blocks <= 36
+    Water  <= 40
+    Capital <= 500
+    xi $Z , xi > 0

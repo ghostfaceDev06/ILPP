@@ -16,3 +16,4 @@ Columns:
 -Energy to Water (integer)
 -Energy to Till (integer)
 -Sell for (recipe to sell, on gold at former integer)
+-Regrowth (day)

@@ -4,6 +4,8 @@ p.a Energy <= 270
     Blocks <= 36
     Water  <= 40
     Capital <= 500
+    Season <= 28 
+    day <= 1
     xi $Z , xi > 0
 
 Columns:
